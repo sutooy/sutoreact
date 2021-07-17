@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sutoreact/static/css/main.6cc6171a.chunk.css",
+    "main.js": "/sutoreact/static/js/main.1b4de6f9.chunk.js",
+    "main.js.map": "/sutoreact/static/js/main.1b4de6f9.chunk.js.map",
+    "runtime-main.js": "/sutoreact/static/js/runtime-main.51f6ec9b.js",
+    "runtime-main.js.map": "/sutoreact/static/js/runtime-main.51f6ec9b.js.map",
+    "static/css/2.3ab4f688.chunk.css": "/sutoreact/static/css/2.3ab4f688.chunk.css",
+    "static/js/2.7185f28b.chunk.js": "/sutoreact/static/js/2.7185f28b.chunk.js",
+    "static/js/2.7185f28b.chunk.js.map": "/sutoreact/static/js/2.7185f28b.chunk.js.map",
+    "static/js/3.bcb17416.chunk.js": "/sutoreact/static/js/3.bcb17416.chunk.js",
+    "static/js/3.bcb17416.chunk.js.map": "/sutoreact/static/js/3.bcb17416.chunk.js.map",
+    "index.html": "/sutoreact/index.html",
+    "static/css/2.3ab4f688.chunk.css.map": "/sutoreact/static/css/2.3ab4f688.chunk.css.map",
+    "static/css/main.6cc6171a.chunk.css.map": "/sutoreact/static/css/main.6cc6171a.chunk.css.map",
+    "static/js/2.7185f28b.chunk.js.LICENSE.txt": "/sutoreact/static/js/2.7185f28b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51f6ec9b.js",
+    "static/css/2.3ab4f688.chunk.css",
+    "static/js/2.7185f28b.chunk.js",
+    "static/css/main.6cc6171a.chunk.css",
+    "static/js/main.1b4de6f9.chunk.js"
+  ]
+}
