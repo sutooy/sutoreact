@@ -1,0 +1,81 @@
+.suto-container {
+    align-items: center;
+    align-content: center;
+   
+}
+.navbar {
+    display: flex;
+    justify-content: space-around;
+}
+
+.Carousel-st {
+    margin: 10rem 6rem 6rem 6rem;
+}
+.navbar-brand {
+    margin-left: 1em ; 
+}
+
+/* .nav-link{
+    margin-left: 8rem;
+} */
+
+.konten {
+    width: auto;
+    display: flex;
+
+    margin-top: 7rem;
+    margin-bottom: 6rem;
+    justify-content:center !important;
+    align-content: center !important;
+    align-self: center !important;
+}
+
+.card {
+    align-items: center !important;
+    justify-content:center !important;
+    align-content: center !important;
+    align-self: center !important;
+ }
+
+.row1{
+    align-items: center;
+    display:inline-flex;
+    justify-content:space-evenly ;
+    
+}
+.col6{
+    align-items: center;
+    /* display:inline-flex; */
+    justify-content:space-evenly ; 
+}
+
+.comment1{
+    align-items: center;
+    justify-content:center ;
+        align-content: center;
+    align-self: center;
+}
+.comment2{
+    align-items: center;
+    justify-content:center;
+    align-content: center;
+    align-self: center;
+}
+.comment3{
+    align-items: center;
+    justify-content:center;
+    align-content: center;
+    align-self: center;
+}
+.comment4{
+    align-items: center;
+    justify-content:space-evenly ;
+    align-content: center;
+    align-self: center;
+}
+.comment5{
+    align-items: center;
+    justify-content:space-evenly ;
+    align-content: center;
+    align-self: center;
+}
